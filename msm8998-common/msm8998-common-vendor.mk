@@ -574,9 +574,9 @@ PRODUCT_PACKAGES += \
     libgpustats \
     libsdm-disp-vndapis \
     SoterService \
-    ims \
     CNEService \
     WfdService \
+    ims \
     qcrilmsgtunnel \
     QtiTelephonyService \
     datastatusnotification \
